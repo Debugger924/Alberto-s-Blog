@@ -1,2 +1,1 @@
-# Alberto-Blog
-Blog creato per esercitarmi sullo sviluppo web
+CAMBIARE USERNAME E PASSWORD PER L ACCESSO AL SERVER IN LOCALE NEL FILE CONNECT.PHP!!!!!
